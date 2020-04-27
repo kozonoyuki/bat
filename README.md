@@ -11,4 +11,4 @@ python lucky.py {検索ワード}
 ```
 python news.py
 ```
-ITニュースサイトの絨毯爆撃
+ITニュースサイトを開く
